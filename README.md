@@ -18,27 +18,3 @@
 ### Install
 
 https://docs.bazel.build/versions/3.7.0/install-windows.html
-
-## CMake
-
-> TODO
-
-## make
-
-> TODO
-
-## Meson
-
-> TODO
-
-## SCons
-
-> TODO
-
-## Waf
-
-> TODO
-
-
-
-_And more!_
