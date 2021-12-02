@@ -17,4 +17,4 @@
 
 ### Install
 
-https://docs.bazel.build/versions/3.7.0/install-windows.html
+https://docs.bazel.build/versions/main/install-windows.html
